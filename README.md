@@ -5,7 +5,7 @@ A simple and fun Simon Says game built with HTML, CSS, and JavaScript. This game
 
 ## How to Play
 - Visit the game website or open `index.html` in a browser.
-- Press the any  button to begin.
+- Press  any  button to begin.
 - Follow the sequence of button inorder they flash.
 - The sequence gets progressively more challenging as you advance.
 
